@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<style>
+		.ornek{
+	width: 900px;
+	margin:auto;
+	size:10px;
+	}
+	.saga-kaydir{
+	float:right;
+	padding:0 0 10px 10px;
+	width:400;
+	height:200;
+	}
+	 
+	.sola-kaydir{
+	float:left;
+	padding:0 10px 10px 0;
+	width:400;
+	height:200
+	}
+	</style>
+ 
+	</head>
+	<body style="background-color:#e8fff2">
+		<center><h1 style="color:red"><i>3D BASKI İLE OKUL PROJELERİ</i></h1></center> <br><br>
+		
+		<div class="ornek">
+		<img src="images/okul1.jpg" class="saga-kaydir">
+		<p><br>3 boyutlu yazıcıların mimarlık, mühendislik, inşaat sektörlerinde herkes için ulaşılabilir
+		olması ve bu yazıcılar vasıtasıyla kısa sürede ekonomik, renkli ve renksiz fiziksel modeller üretmek mümkündür.</p>
+		
+		<p> İletişim halinde olduğumuz sektörlerde yeniliği arttırmak, iletişimi kolaylaştırmak, 
+		zamanının en verimli şekilde kullanımını sağlamak ve proje teslim süresini hızlandırmak 
+		için son teknoloji makina parkurumuz ile sektöre hizmet vermekteyiz.</p><br><br><br><br>
+		
+		<img src="images/okul2.jpg" class="sola-kaydir">
+		<p> Eğitim başlığı 3 boyutlu yazıcılar
+			için stratejik bir öneme sahiptir. İnteraktif olarak geçen, mekanik ve teknik
+			derslerdeki yaratıcılığın arttırılmasında önemli bir araç olarak görülmektedir. Bu
+			teknolojinin eğitim ortamında etkin bir şekilde kullanımı ile çok farklı alanlarda
+			farklı deneyimler yaşanabilmekte. 
+		</p>
+		<p>
+			Matematik’de 3 boyutlu objelerin dizayn
+			edilmesi, yazdırılması ve hesaplanması. Coğrafya’da rölyefler tasarımı ve
+			baskısı, sanat eğitimde sanatsal nesnelerin tasarlanıp yazdırılması, Biyoloji’de
+			molekül modellerinin basımı gibi birçok uygulama örneği bulunan 3 boyutlu
+			yazıcı teknolojileri sayesinde, zorlu kavramların öğrencilere açıklanması,
+			öğrencilerin ilgisini çekip daha etkin derse katılımlarının sağlanması ve sınıf içi
+			etkileşim daha kolay olabilmektedir. 
+		</p>		
+		
+		
+		</div>
+	</body>
+</html>
